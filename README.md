@@ -18,3 +18,6 @@ Spėjimų formatas (ką reikės mokiniams nusiųsti į microbit imtuvą)
 _spalva_x_y  Splavų pasirinkimas: red, blue, green, yellow, orange, cyan, magenta, black.
 x and y atsitiktiniai skaičiai 0 - 1000
 Radio Group 0
+
+![Student Microbit](https://raw.githubusercontent.com/pvelesko/microbit_monte_carlo/master/example2.PNG)
+
