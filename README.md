@@ -1,6 +1,6 @@
 # microbit_monte_carlo
 Interactive Monte Carlo simulation using BBC micro:bit microcontroller. 
-
+![action](https://raw.githubusercontent.com/pvelesko/microbit_monte_carlo/master/active.PNG)
 # Getting Started
 1. Setup receiver microbit - go to passalong.py and copy the contents either into online microbit python editor https://python.microbit.org/v/1.1 or MU or whatever you use to program microbits in python. 
 2. Run the monte_carlo_interactive.py (you won't see anything until the first guess is received)
